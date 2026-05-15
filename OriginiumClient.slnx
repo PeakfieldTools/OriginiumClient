@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Endfield.Originium.Net/Endfield.Originium.Net.csproj" />
+  <Project Path="OriginiumClient.csproj" />
+</Solution>
